@@ -1,0 +1,13 @@
+
+# js packages
+node_modules
+
+# if you're using an ide
+.idea
+
+# those god damn lock files
+yarn.lock
+package-lock.json
+
+# mac shit
+.DS_Store
